@@ -1,0 +1,31 @@
+Caracteristica,pValorDiferencia,Normalidad,TestUsado,pValor,Significativa
+gsrMaxValue,0.00018088287561846,No normal,Wilcoxon,0.80050932413475,0
+gsrMinValue,0.0600316635429003,Normal,t-test,0.983049229960646,0
+gsrRangeValue,3.77194091383259e-06,No normal,Wilcoxon,0.945172578302857,0
+gsrMeanValue,0.326248910016581,Normal,t-test,0.858693481783818,0
+gsrStdValue,7.08936471416344e-07,No normal,Wilcoxon,0.895547113196904,0
+gsrMedianValue,0.443713686916649,Normal,t-test,0.347915682961473,0
+gsrModeValue,0.0600316635429003,Normal,t-test,0.983049229960646,0
+tonicMaxValue,0.000198659410976632,No normal,Wilcoxon,0.268478050136964,0
+tonicMinValue,0.248115806533243,Normal,t-test,0.0805292968081057,0
+tonicRangeValue,0.000277644111743469,No normal,Wilcoxon,0.935224198342997,0
+tonicMeanValue,0.00197661615236711,No normal,Wilcoxon,0.152238430297543,0
+tonicStdValue,2.42882787034882e-05,No normal,Wilcoxon,0.721575162314893,0
+tonicQuartile25Value,0.0838723685431469,Normal,t-test,0.0802573826681923,0
+tonicQuartile75Value,4.29870679840016e-05,No normal,Wilcoxon,0.170952023718015,0
+phasicMinValue,0.270728619225376,Normal,t-test,0.0301596418168136,1
+phasicMaxValue,0.0106538229658895,No normal,Wilcoxon,0.590817397584188,0
+phasicRangeValue,0.00173797443551538,No normal,Wilcoxon,0.384844599148347,0
+phasicMeanValue,0.102332605593137,Normal,t-test,0.221478711135412,0
+phasicEnergyValue,0.0493915492677823,No normal,Wilcoxon,0.412792134058775,0
+phasicStdValue,0.00158773338878604,No normal,Wilcoxon,0.332528256341786,0
+phasicStrongPeakValue,0.0153231260308764,No normal,Wilcoxon,0.220972487196845,0
+phasicNumPeaksValue,8.05925796987239e-07,No normal,Wilcoxon,0.7744140625,0
+phasicRiseTimeValue,0.00088553118527146,No normal,Wilcoxon,0.408069785277195,0
+phasicHalfRecoveryTimeValue,1.34144073626885e-09,No normal,Wilcoxon,0.84375,0
+phasicPeakEnergyValue,0.000562705385781848,No normal,Wilcoxon,0.177330188709473,0
+phasicMedianValue,0.00918112627154455,No normal,Wilcoxon,0.512855989509383,0
+phasicModeValue,0.270728619225376,Normal,t-test,0.0301596418168136,1
+phasicRMSValue,0.0735554027512733,Normal,t-test,0.260786927353869,0
+phasicQuartile25Value,0.764689128066783,Normal,t-test,0.0772610460642966,0
+phasicQuartile75Value,0.0336188122725919,No normal,Wilcoxon,0.684471441668102,0
